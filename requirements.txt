@@ -12,28 +12,25 @@ vega_datasets
 ipyvolume
 earthengine-api
 geemap
-pandas as pd
-pandas.io.sql as sqlio
-psycopg2 as ps
-sys
+psycopg2
+os-sys
 ipywidgets
-shapely.geometry
+shapely
 ipyleaflet
 uuid
-json
+jsonlib
 geojson
-tkinter
-turtle
+pytk
+PythonTurtle
 ipyfilechooser
 geopandas
-os
 tempfile
 functools
-datetime
+DateTime
 warnings
-IPython.display
+ipython
 fastkml
-zipfile
-xml.etree.ElementTree
+zipfile36
+xml-python
 re
 pykml
