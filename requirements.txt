@@ -14,7 +14,7 @@ jupyter_contrib_nbextensions==0.7.0
 bqplot==0.12.43
 matplotlib==3.8.2
 earthengine-api==0.1.391
-geemap[all]
+geemap==0.31.0
 psycopg2==2.9.9
 shapely==2.0.3
 geojson==3.1.0
@@ -33,15 +33,6 @@ tornado==6.3.2
 notebook==7.1.0
 notebook_shim==0.2.3
 npyscreen==4.10.5
-google-api-core==2.15.0
-google-api-python-client==2.111.0
-google-auth==2.26.2
-google-auth-httplib2==0.1.1
-google-cloud-core==2.4.1
-google-cloud-storage==2.14.0
-google-crc32c==1.5.0
-google-resumable-media==2.7.0
-googleapis-common-protos==1.62.0
 colorama==0.4.6
 colour==0.1.5
 beautifulsoup4==4.12.2
