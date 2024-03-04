@@ -10,3 +10,30 @@ matplotlib
 scipy
 vega_datasets
 ipyvolume
+earthengine-api
+geemap
+pandas as pd
+pandas.io.sql as sqlio
+psycopg2 as ps
+sys
+ipywidgets
+shapely.geometry
+ipyleaflet
+uuid
+json
+geojson
+tkinter
+turtle
+ipyfilechooser
+geopandas
+os
+tempfile
+functools
+datetime
+warnings
+IPython.display
+fastkml
+zipfile
+xml.etree.ElementTree
+re
+pykml
