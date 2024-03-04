@@ -25,5 +25,5 @@ zipfile36
 xml-python
 pykml
 DateTime
-ipywidgets==7.5.1
-ipympl==0.9.3
+ipywidgets
+ipympl
