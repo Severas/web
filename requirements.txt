@@ -5,7 +5,7 @@ pandas
 bokeh
 bqplot
 jupyter
-jupyterlab
+jupyterlab==3
 jupyterlab-fasta
 matplotlib==3.4.1
 vega_datasets
@@ -25,5 +25,5 @@ zipfile36
 xml-python
 pykml
 DateTime
-ipywidgets == 7.6.0
+ipywidgets
 ipympl
