@@ -10,10 +10,11 @@ jupyterlab==4.1.1
 jupyterlab_pygments==0.3.0
 jupyterlab_server==2.25.2
 jupyterlab_widgets==3.0.10
+jupyter_contrib_nbextensions==0.7.0
 bqplot==0.12.43
 matplotlib==3.8.2
 earthengine-api==0.1.391
-geemap==0.31.0
+geemap[all]
 psycopg2==2.9.9
 shapely==2.0.3
 geojson==3.1.0
