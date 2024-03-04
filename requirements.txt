@@ -28,6 +28,5 @@ ipython
 fastkml
 zipfile36
 xml-python
-re
 pykml
 DateTime
