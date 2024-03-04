@@ -1,12 +1,13 @@
 voila==0.5.0
 voila-topbar==0.1.1
+ipywidgets
 ipykernel
 pandas
 bokeh
 bqplot
+jupyterlab == 3
 jupyter_server==2.7.0
 jupyter == 2
-jupyterlab == 3
 matplotlib==3.4.1
 vega_datasets
 ipyvolume
@@ -16,14 +17,11 @@ psycopg2
 shapely
 geojson
 pytk
-PythonTurtle
 ipyfilechooser
 geopandas
 ipython
 fastkml
-zipfile36
 xml-python
 pykml
 DateTime
-ipywidgets
 ipympl
