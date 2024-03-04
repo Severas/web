@@ -7,7 +7,6 @@ bokeh
 bqplot
 jupyterlab == 3
 jupyter_server==2.7.0
-jupyter == 2
 matplotlib==3.4.1
 vega_datasets
 ipyvolume
