@@ -15,8 +15,6 @@ geemap
 psycopg2
 ipywidgets
 shapely
-ipyleaflet
-json
 geojson
 pytk
 PythonTurtle
