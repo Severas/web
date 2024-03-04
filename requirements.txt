@@ -1,3 +1,4 @@
+pip==24
 voila==0.5.0
 voila-topbar==0.1.1
 ipykernel
@@ -13,7 +14,6 @@ ipyvolume
 earthengine-api
 geemap
 psycopg2
-os-sys
 ipywidgets
 shapely
 ipyleaflet
