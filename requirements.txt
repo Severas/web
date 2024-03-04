@@ -16,7 +16,6 @@ psycopg2
 ipywidgets
 shapely
 ipyleaflet
-uuid
 json
 geojson
 pytk
