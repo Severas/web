@@ -4,9 +4,9 @@ ipywidgets
 ipykernel
 pandas
 bokeh
-jupyter_server==2.7.0
-bqplot
+jupyter_server
 jupyterlab
+bqplot
 matplotlib==3.4.1
 vega_datasets
 ipyvolume
@@ -24,3 +24,4 @@ xml-python
 pykml
 DateTime
 ipympl
+jupiter
