@@ -4,7 +4,7 @@ ipykernel
 pandas
 bokeh
 bqplot
-jupyter==1.0.0
+jupyter==1.4
 jupyterlab==3.0.14
 jupyterlab-fasta
 matplotlib==3.4.1
