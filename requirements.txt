@@ -24,10 +24,10 @@ pytk
 PythonTurtle
 ipyfilechooser
 geopandas
-warnings
 ipython
 fastkml
 zipfile36
 xml-python
 re
 pykml
+DateTime
