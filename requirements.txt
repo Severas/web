@@ -24,7 +24,6 @@ pytk
 PythonTurtle
 ipyfilechooser
 geopandas
-functools
 DateTime
 warnings
 ipython
