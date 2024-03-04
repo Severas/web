@@ -32,7 +32,6 @@ tornado==6.3.2
 notebook==7.1.0
 notebook_shim==0.2.3
 npyscreen==4.10.5
-layoutswitcherlib==0.8.37
 google-api-core==2.15.0
 google-api-python-client==2.111.0
 google-auth==2.26.2
