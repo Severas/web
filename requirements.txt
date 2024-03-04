@@ -1,4 +1,4 @@
---upgrade pip
+pip install --upgrade pip
 voila==0.5.0
 voila-topbar==0.1.1
 ipykernel
