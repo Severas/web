@@ -6,7 +6,7 @@ bokeh
 bqplot
 jupyter_server==2.7.0
 jupyter
-jupyterlab
+jupyterlab == 3
 jupyterlab-fasta
 matplotlib==3.4.1
 vega_datasets
