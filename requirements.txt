@@ -24,4 +24,3 @@ xml-python
 pykml
 DateTime
 ipympl
-jupiter
