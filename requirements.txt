@@ -1,7 +1,7 @@
 voila==0.5.0
 ipywidgets==8.1.2
 ipykernel==6.29.2
-pandas==1.5.3
+pandas
 jupyter-events==0.9.0
 jupyter_client==8.6.0
 jupyter_core==5.7.1
@@ -12,7 +12,6 @@ jupyterlab_server==2.25.2
 jupyterlab_widgets==3.0.10
 jupyter_contrib_nbextensions==0.7.0
 bqplot==0.12.43
-matplotlib==3.8.2
 earthengine-api==0.1.391
 geemap==0.31.0
 psycopg2==2.9.9
@@ -42,3 +41,18 @@ xml-python
 bokeh
 vega_datasets
 ipyvolume
+requests
+eerepr>=0.0.4
+folium>=0.13.0
+geocoder
+ipyevents
+ipyleaflet>=0.17.0
+ipytree
+matplotlib
+numpy
+pandas
+plotly
+pyperclip
+pyshp>=2.1.3
+python-box
+scooby
